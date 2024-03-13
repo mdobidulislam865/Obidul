@@ -6,15 +6,13 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "OBIDUL-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "1015949653"
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "1015949653"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
